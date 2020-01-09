@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Window 환경에서 Git Blog 만들기"
+title:  "Windows 환경에서 Git Blog 만들기"
 date:   2020-01-09 01:47:31 +0900
 subtitle: "알 수 없는 3 try"
 tag: "jekyll"
@@ -8,7 +8,7 @@ tag: "jekyll"
 
 안녕하세요, 김선진입니다. 
 
-Window => Mac => Window에 걸친 제 블로그 이전이 드디어 끝난 기념으로 찍어뒀던 스크린샷들과 함께 포스팅을 해보려 합니다. 거의 애증이네요.
+Windows => Mac => Windows에 걸친 제 블로그 이전이 드디어 끝난 기념으로 찍어뒀던 스크린샷들과 함께 포스팅을 해보려 합니다. 거의 애증이네요.
 config, gemfile수정으로 7커밋을 했으나 되살리지 못한 두 번째 블로그... :innocent:
 
 ![2nd](../../../img/posts/second-git-branch.PNG)
@@ -44,7 +44,7 @@ gem install jekyll bundler
 [클린 블로그 지킬  테마 깃 바로가기][theme]
 
 원하는 테마를 찾아서 해당 깃을 ZIP로 다운로드 받아주세요.
-![download](../../../img/posts/download-git.png)
+![download](../../../img/posts/download-git.PNG)
 다운로드가 완료되면 깃에 블로그용 르포를 하나 만들어주세요.
 
 그 후 repo를 원하는 디렉토리에 clone한 뒤, 해당 디렉토리에 압축을 풀어줍니다. (테마 샘플을 그대로 베끼는 것과 같습니다.) 이렇게 쓰게 되면 gem으로 설치해서 사용하는 것보다 커스텀 테마를 사용할 수 있게 됩니다.
