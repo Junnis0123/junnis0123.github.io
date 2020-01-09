@@ -11,7 +11,7 @@ tag: "jekyll"
 Window => Mac => Window에 걸친 제 블로그 이전이 드디어 끝난 기념으로 찍어뒀던 스크린샷들과 함께 포스팅을 해보려 합니다. 거의 애증이네요.
 config, gemfile수정으로 7커밋을 했으나 되살리지 못한 두 번째 블로그... :innocent:
 
-![2nd](../../img/posts/second-git-branch.png)
+![2nd](../../../img/posts/second-git-branch.PNG)
 
 설치 방법은 [여기][jekyll]를 참고해서 작성되었습니다.
 
@@ -36,7 +36,7 @@ gem install jekyll bundler
 지킬 번들을 인스톨합니다. 여기서 ```jekyll new "projectName"```를 이용해서 새 프로젝트를 생성해도 되지만, 테마를 적용하기 위해 편법을 사용해봅시다.
 
 왜냐하면 지킬 기본 테마가 넘나 구리기 때문입니다.
-![구린 지킬 기본 테마](../../img/posts/jekyll-default-theme.png)
+![구린 지킬 기본 테마](../../../img/posts/jekyll-default-theme.png)
 
 예쁘고 인기 있는 테마들을 둘러보는데 맘에 드는 게 두 개 있어서 그 중 지금 테마로 결정하게 되었습니다.
 현재 제 블로그 테마는 Clean Blog Jekyll 입니다.
@@ -44,7 +44,7 @@ gem install jekyll bundler
 [클린 블로그 지킬  테마 깃 바로가기][theme]
 
 원하는 테마를 찾아서 해당 깃을 ZIP로 다운로드 받아주세요.
-![download](../../img/posts/download-git.png)
+![download](../../../img/posts/download-git.png)
 다운로드가 완료되면 깃에 블로그용 르포를 하나 만들어주세요.
 
 그 후 repo를 원하는 디렉토리에 clone한 뒤, 해당 디렉토리에 압축을 풀어줍니다. (테마 샘플을 그대로 베끼는 것과 같습니다.) 이렇게 쓰게 되면 gem으로 설치해서 사용하는 것보다 커스텀 테마를 사용할 수 있게 됩니다.
