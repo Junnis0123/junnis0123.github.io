@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "[Vue.js] 이모지 입력이 되지 않는 TextArea Component 만들기"
-date:   2020-01-08 15:37:31 +0900
+layout: post
+title:  "Vue.js 이모지 입력이 되지 않는 TextArea Component 만들기"
+date:   2020-01-23 01:47:31 +0900
+subtitle: "Vue.js"
+tag: "Vue.js"
 ---
+
 
 안녕하세요, 김선진입니다!
 회사에서 개발 프로젝트를 진행하던 중, 이모지 입력을 막아야 하는 일이 있었는데요,
