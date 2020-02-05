@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Ruby On Rails] Jets 프로젝트 만들"
+title:  "[Ruby On Rails] Jets 프로젝트 만들기"
 date:   2020-02-03 11:38:31 +0900
 ---
 
