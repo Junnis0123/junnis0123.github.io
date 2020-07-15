@@ -20,10 +20,10 @@ firebase auth 구현기입니다.
 아래 사진을 따라 다음, 다음, 다음을 눌러주세요.
 
 (구글 계정이 없다면 구글 계정부터 만들어주세요.)
-![firebase1](../../img/posts/20200714-firebase1.png)
-![firebase2](../../img/posts/20200714-firebase2.png)
-![firebase3](../../img/posts/20200714-firebase3.png)
-![firebase4](../../img/posts/20200714-firebase4.png)
+![firebase1](../../../img/posts/20200714-firebase1.png)
+![firebase2](../../../img/posts/20200714-firebase2.png)
+![firebase3](../../../img/posts/20200714-firebase3.png)
+![firebase4](../../../img/posts/20200714-firebase4.png)
 
 
 ## 1. firebase ios 앱 추가하기
@@ -31,13 +31,13 @@ firebase auth 구현기입니다.
 먼저 IOS 앱을 추가해봅시다.
 
 ### 1-1. 앱 등록
-![ios1](../../img/posts/20200714-ios1.png)
+![ios1](../../../img/posts/20200714-ios1.png)
 앱 주소와 앱 닉네임을 대강 정해주세요.
 번들ID는 프로젝트 만드실 때 설정한 번들 ID로 해 주시면 됩니다.
 
 ### 1-2. 구성 파일 다운로드
 앱 등록을 대충 해주시고 다음을 눌러 구성 파일을 다운받아주세요.
-![ios2](../../img/posts/20200714-ios2.png)
+![ios2](../../../img/posts/20200714-ios2.png)
 구성 파일은 xcode로 프로젝트를 열어서 추가해주세요.
 (직접 추가하면 인식하지 못해서 빌드가 안 될 확률이 있습니다...)
 
@@ -58,7 +58,7 @@ pod install
 ```
 
 ### 1-4. URL Scheme 추가
-![ios3](../../img/posts/20200714-ios3.png)
+![ios3](../../../img/posts/20200714-ios3.png)
 파일 추가가 끝났으면 URL 스키마를 추가해주세요.
 
 ## 2. firebase web 앱 추가하기
