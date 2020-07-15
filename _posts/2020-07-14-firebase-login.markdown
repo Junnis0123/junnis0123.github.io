@@ -20,7 +20,7 @@ firebase auth 구현기입니다.
 아래 사진을 따라 다음, 다음, 다음을 눌러주세요.
 
 (구글 계정이 없다면 구글 계정부터 만들어주세요.)
-![firebase1](../../../img/posts/20200714-firebase1.png)
+![firebase1](../../../img/posts/20201714-firebase1.png)
 ![firebase2](../../../img/posts/20200714-firebase2.png)
 ![firebase3](../../../img/posts/20200714-firebase3.png)
 ![firebase4](../../../img/posts/20200714-firebase4.png)
